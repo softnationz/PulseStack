@@ -1,0 +1,20 @@
+{
+  "name": "pulsestack-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "pnpm exec hardhat compile",
+    "test": "pnpm exec hardhat test",
+    "node": "pnpm exec hardhat node"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "hardhat": "^2.22.2",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2",
+    "@types/node": "^20.11.24",
+    "chai": "^4.4.1",
+    "ethers": "^6.11.1"
+  }
+}
