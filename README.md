@@ -413,7 +413,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 Built with ❤️ for the open-source community. Special thanks to all contributors working to make Web3 development more sustainable and healthy.
-
----
-
-**⚠️ Disclaimer:** This protocol is experimental software. Use at your own risk. Always audit smart contracts before deploying to production.
